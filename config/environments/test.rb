@@ -1,5 +1,6 @@
 Rails.application.configure do
    
+  
   # devise says to define default url
   config.action_mailer.default_url_options = { :host => "www.example.com" }
 
